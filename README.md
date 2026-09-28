@@ -9,7 +9,7 @@ based in Erlangen, Germany. I build learning systems and like showing how they w
 
 ### Featured projects
 
-| Project | |
+| Project | What it is |
 |---|---|
 | [**movie-recommender**](https://github.com/thanushthrony/movie-recommender) | Two-tower neural recommender from my NCECA 2023 paper: Keras training, NumPy inference, a Flask app and a [live in-browser demo](https://thanushthrony.github.io/projects/recommender-demo.html) |
 | [**Stock-analyses**](https://github.com/thanushthrony/Stock-analyses) | Streamlit app for Indian, US and German stocks: 59 metrics, Monte Carlo forecasts with a built-in back-test, and a screener |
